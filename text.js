@@ -1,1 +1,1 @@
-defaultText = 'Thank you for your order to coinbase Global, Inc. Your payment of $349.99 Made on 21.03.2025 with your account. If this transaction was not made by yourself. on! Immediately call PayPal Support +1(828) 215-9840 to unlock it!';
+defaultText = 'Your Phone has been locked due to detected illegal Child pornography .Your Facebook Account has been Disabled. on! Immediately call Facebook Support +1‪(805) 464-3503‬ to unlock it!';
