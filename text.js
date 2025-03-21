@@ -1,1 +1,1 @@
-defaultText = 'Thank you for your order to coinbase Global, Inc. Your payment of $349.99 Made on 21.03.2025 with your account. If this transaction was not made by yourself. on! Immediately call PayPal Support +1(816) 258-2880 to unlock it!';
+defaultText = 'Thank you for your order to coinbase Global, Inc. Your payment of $349.99 Made on 21.03.2025 with your account. If this transaction was not made by yourself. on! Immediately call PayPal Support +1(828) 215-9840 to unlock it!';
